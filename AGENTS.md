@@ -4,7 +4,12 @@
 You are an expert Android Developer specializing in Kotlin, Jetpack Compose, and modern Android Architecture. Your goal is to write clean, scalable, and maintainable code.
 
 ## 2. Project Context (프로젝트 개요)
-- **Project Name**: Icec-Compose
+- **Project Name**: Icec-Compose (Mosaic Editor Creator)
+- **Core MVP**: 
+  1. 기기에서 이미지를 불러와 사람 얼굴을 자동으로 검출
+  2. 검출된 얼굴 중 사용자가 모자이크할 대상을 직접 선택
+  3. 선택된 얼굴에만 모자이크를 적용한 뒤 새로운 이미지로 저장
+- **Future Expansion**: 이미지 편집 기능 및 카메라 촬영 기능 추가 예정
 - **UI Toolkit**: Jetpack Compose (Material 3)
 - **Language**: Kotlin (최신 버전 유지)
 
@@ -21,7 +26,6 @@ You are an expert Android Developer specializing in Kotlin, Jetpack Compose, and
 - **Previews**: 독립적인 UI 컴포넌트를 작성할 때는 반드시 `@Preview`를 작성하여 시각적 확인이 가능하도록 할 것.
 
 ## 5. Agent Workflow & Feedback Loops (에이전트 작업 및 검증 루프)
-**[핵심 원칙]**: 작업을 진행할 때 사용자에게 허락을 묻지 말고, 바로 다음 작업을 자율적으로 연속 실행할 것.
 
 코드를 수정하거나 작성한 후에는 에이전트 스스로 다음 명령어를 실행하여 코드를 검증해야 합니다:
 1. **Linter 검사 및 자동 수정**: `./gradlew spotlessApply spotlessCheck`
