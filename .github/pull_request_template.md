@@ -10,6 +10,40 @@
 
 -
 
+## Verification
+
+### 실행 명령
+
+```text
+-
+```
+
+### 결과
+
+-
+
+### 미실행 항목 / 이유
+
+- 없음
+
+## Decisions / Deviations
+
+- 주요 결정:
+- 계획 대비 변경 사항: 없음
+
+## Documentation Impact
+
+- [ ] 없음
+- [ ] Architecture (`docs/architecture/`)
+- [ ] Spec (`docs/specs/`)
+- [ ] ADR (`docs/adr/`)
+- [ ] Performance (`docs/performance/`)
+- [ ] Project Status (Notion)
+
+## Follow-up
+
+- 없음
+
 ## 완료 확인
 
 - [ ] 관련 Repository SSOT와 코드가 함께 갱신되었다.
