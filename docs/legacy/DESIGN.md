@@ -1,6 +1,10 @@
-# 🎨 [디자인 시스템] ICEC UI/UX & Stitch AI DESIGN.md (SSOT)
+# 🎨 [Legacy] ICEC UI/UX & Stitch AI DESIGN.md
 
-> **상위 기획서 (SSOT)**: [ICEC UI/UX 디자인 기획서](https://app.notion.com/p/3d34d984a218818da3b8fa6956fb1796)  
+> **상태**: Legacy Reference
+> **SSOT 아님**: 최신 UX 정책은 Notion, 승인된 시각 디자인은 Figma를 확인합니다.
+> **보존 목적**: Stitch 기반 초기 디자인 방향과 프롬프트 이력을 보존합니다.
+
+> **과거 상위 기획서**: [ICEC UI/UX 디자인 기획서](https://app.notion.com/p/3d34d984a218818da3b8fa6956fb1796)
 > **제품 PRD**: [ICEC 제품 요구사항 정의서(PRD)](https://app.notion.com/p/3d34d984a2188170bf31c07223f05a15)  
 > **피그마 프로젝트**: [ICEC Figma Project (Node #10:4803)](https://www.figma.com/design/K8uqTjJDkBnC1lNxfuICv0/ICEC?node-id=10-4803&t=IWYJQ8iMXDYp9o58-1)  
 > **문서 식별자**: `DOC-STITCH-DESIGN-MD-v2.1`  
